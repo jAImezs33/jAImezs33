@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jaime
 
-<!--
-**jAImezs33/jAImezs33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la inteligencia artificial, machine learning y el desarrollo de aplicaciones enfocadas en la etología animal.
 
-Here are some ideas to get you started:
+## Áreas de interés:
+- Inteligencia Artificial y Deep Learning 🧠
+- Aplicaciones móviles y web para mejorar la vida de las mascotas 🐕🐈
+- Tatuajes artísticos y expresión a través del arte 🖊️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados:
+- **Sistema de identificación de emociones en mascotas**: Una aplicación que utiliza aprendizaje profundo para analizar las emociones de gatos y perros.
+- **Sound System Reciclado**: Creación de un soundsystem utilizando materiales reciclados para eventos de música DUB 🎶.
+
+## Conéctate conmigo:
+- [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- [Portfolio personal](https://tusitio.com)
