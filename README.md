@@ -11,9 +11,7 @@ Soy un estudiante de desarrollo de software enfocado en inteligencia artificial,
 - Desarrollo de aplicaciones móviles 📱
 - Trabajo en equipo y colaboraciones en proyectos open-source 🌍
 
-## Proyectos destacados:
-- **Sistema de reconocimiento de emociones en mascotas**: Una aplicación que utiliza aprendizaje profundo para analizar las emociones de gatos y perros.
-- **Aplicación de gestión de tareas para estudiantes**: Una herramienta diseñada para ayudar a estudiantes a organizar sus tareas y mejorar la productividad.
+
 
 ## Conéctate conmigo:
 - **Correo**: jaime.zamorano.sanz@gmail.com
@@ -29,9 +27,7 @@ I am a software development student focused on artificial intelligence, machine 
 - Mobile app development 📱
 - Teamwork and collaborations in open-source projects 🌍
 
-## Featured projects:
-- **Pet Emotion Recognition System**: An application that uses deep learning to analyze the emotions of cats and dogs.
-- **Student Task Management App**: A tool designed to help students organize their tasks and boost productivity.
+
 
 ## Connect with me:
 - **Email**: jaime.zamorano.sanz@gmail.com
